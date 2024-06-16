@@ -8,7 +8,7 @@ from beginners to advanced users. Our goal is to provide a structured and engagi
 ### 2- Open cmd
 ### 3- pip install jupyter notebook
 ## <b><u> Run
-### 1- clone this repo
+### 1- clone this repository 
 ### 2- Open cmd
 ### 3- jupyter notebook
 ### 4- Open the local .ipynb file
