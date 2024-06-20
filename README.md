@@ -1,6 +1,6 @@
-# <b><u>Robokid Academy Python Material
+# <b><u>Python Material
 
-Welcome to the RoboKid Python Material repository!
+Welcome to my Python Material repository!
 This repository contains a comprehensive collection of Python learning materials designed for different skill levels,
 from beginners to advanced users. Our goal is to provide a structured and engaging learning experience for young robotics enthusiasts and aspiring programmers.
 ## <b><u>Steps
